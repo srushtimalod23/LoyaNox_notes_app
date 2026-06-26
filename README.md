@@ -8,9 +8,9 @@ A simple and responsive **Notes App** built using **React**, **Vite**, **Tailwin
 
 Add your project screenshot inside the **public** folder.
 
-```md
+
 ![Notes App Screenshot](public/output.png)
-```
+
 
 ---
 
